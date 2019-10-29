@@ -1,3 +1,3 @@
 console.error("Help!");
-console.log();
+console.log("Fat Log init");
 console.warn();
